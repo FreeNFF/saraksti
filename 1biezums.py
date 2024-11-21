@@ -1,4 +1,4 @@
-with open("Masinmacisanas.txt",'r', encoding='utf-8') as file:#nolasa teksta datni, utf-8 - valoda
+with open("1Masinmacisanas.txt",'r', encoding='utf-8') as file:#nolasa teksta datni, utf-8 - valoda
     data= file.read()
 print(data)
 
@@ -16,3 +16,8 @@ for word in lines:
         else:
             word_count[word] = 1
 print(word_count)
+
+
+salabots = sorted(word_count.items(), key=lambda x:x[1], reverse=True)[:5]#reverse parametrs nosaka secību, lambda nosaka vārdus
+for word, count in salabots:
+    print(word,count)
