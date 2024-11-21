@@ -4,7 +4,7 @@ print(data)
 
 print("------------------------------------------------")
 
-word_count={}
+word_count= {}
 lines = data.split()
 print(lines)
 print("------------------------------------------------")
@@ -14,5 +14,5 @@ for word in lines:
         if word in word_count:
             word_count[word] +=1
         else:
-            word_count = 1
+            word_count[word] = 1
 print(word_count)
