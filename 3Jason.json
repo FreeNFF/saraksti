@@ -1,0 +1,34 @@
+{
+"Sheet1":[
+ {
+  "Vārds": "Nauris",
+  "Uzvārds": "Fricsons",
+  "Gadi": 17,
+  "Lohs": "Jā"
+ },
+ {
+  "Vārds": "Oto",
+  "Uzvārds": "Voicehovičs",
+  "Gadi": 18,
+  "Lohs": "Nē"
+ },
+ {
+  "Vārds": "Kristaps",
+  "Uzvārds": "Enkmanis",
+  "Gadi": 18,
+  "Lohs": "Nē"
+ },
+ {
+  "Vārds": "Markuss",
+  "Uzvārds": "Švāģeris",
+  "Gadi": 23,
+  "Lohs": "Jā"
+ },
+ {
+  "Vārds": "Tomass",
+  "Uzvārds": "Krūmiņš",
+  "Gadi": 18,
+  "Lohs": "Nē"
+ }
+]
+}
