@@ -1,0 +1,16 @@
+{
+     "persona": {
+          "vards": "Arturiks",
+          "vecums": 48,
+          "pilseta": "Daugavpils",
+          "hobijs": [
+               "gamble",
+               "dzeršana"
+          ]
+     },
+     "uznemums": {
+          "nosaukums": "Fenikss",
+          "amats": "apsargs",
+          "darbinieki": 15
+     }
+}
